@@ -57,7 +57,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://in.linkedin.com/in/kanishk-upadhyay-6996141a4)]()
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web)](YOUR_PORTFOLIO)
 
